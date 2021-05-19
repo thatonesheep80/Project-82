@@ -7,7 +7,7 @@ ctx = canvas.getContext("2d");
 
 color = "black";
 width_of_line = 1;
-radius = 10;
+radius = 1;
 
 canvas.addEventListener("mousedown" , my_mousedown);
 function my_mousedown(e)
